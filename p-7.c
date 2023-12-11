@@ -2,7 +2,7 @@
 #include <stdio.h>
 
 int main() {
-    char name[] = "W.A.P";
+    char name[] = "your name";
     int number_of_times = 10;
     int i;
 
